@@ -14,7 +14,7 @@ def hasPairSum(arr, n, x):
     return False
 
 
-a = [1, 2, 3, 4, 5]
+a = [3, 4, 5, 1, 2]
 x = 7
 
 print(hasPairSum(a, len(a), x))
