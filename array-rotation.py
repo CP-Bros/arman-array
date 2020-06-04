@@ -1,11 +1,11 @@
 # Write a program that rotate an array
 
-a = [1, 2, 3, 4, 5, 6, 7, 8]
+a = [1, 2, 3, 4, 5, 6]
 n = len(a)
 
 temp = []
 
-rotation = 3
+rotation = 10
 
 for i in range(0, rotation):
     temp.append(a[i])
